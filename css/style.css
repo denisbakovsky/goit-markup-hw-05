@@ -40,11 +40,11 @@ a {
     border: none;
 }
 
-.btn:hover,
+/* .btn:hover,
 :focus {
     background-color: var(--color--ocean);
 
-}
+} */
 
 .container {
     margin: 0 auto;
@@ -95,12 +95,12 @@ a {
 
 }
 
-.header-nav-item:hover,
+/* .header-nav-item:hover,
 :focus {
     color: var(--color--ocean);
     border-bottom: 4px solid var(--color--ocean);
     border-radius: 2px;
-}
+} */
 
 .header-address-list {
     display: flex;
